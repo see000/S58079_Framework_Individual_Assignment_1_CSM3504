@@ -1,6 +1,6 @@
 # s58079_card
 
-A new Flutter project.
+This is an individual assignment 1 for CSM 3504 Framework from S58079
 
 ## Getting Started
 
